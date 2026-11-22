@@ -1,1 +1,9 @@
 
+name = "noisy-dream-ed70"
+main = "worker.js"
+compatibility_date = "2026-11-22"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "yahsports-db-2026"
+database_id = "674fb2ce-4842-410f-9146-a957d18a110b"
